@@ -1,0 +1,317 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bg1{
+    background-image: url(./image/TLmhgu.webp);
+    background-repeat: no-repeat;
+    background-color: rgb(242, 240, 237);
+    height: 100vh;
+    width: 100%;
+    padding: 100px;
+    background-size: cover;
+}
+.logo1{
+    height: 50px;
+    width: 10%;
+    size: 10px;
+}
+.H1{
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 1000px;
+    text-align: center;
+    color: rgb(240, 238, 236);
+}
+.para{
+    color: aliceblue;
+    font-size: xx-large;
+    font-style: italic;
+    padding-left: 900px;
+    padding-bottom: 100px;
+    padding-top: 300px;
+    
+}
+.bg2{
+    background-image: url(./image/tea\ leaf.jpg);
+    background-repeat: no-repeat;
+    background-color: rgb(211, 141, 19);
+    height: 100vh;
+    width: 100%;
+    padding: 100px;
+    background-size: cover; 
+}
+.box1{
+    height: 700px;
+    width: 400px;
+    border-color: antiquewhite ;
+    border: 8px solid;
+    border-spacing: 3px;
+    /* padding-top: 100px; */
+    
+    
+
+}
+.img1{
+    height: 400px;
+    width: 100%;
+}
+.c1{
+    font-size: xx-large;
+    color: darkgoldenrod;
+    padding: 10px;
+}
+.p1{
+    color: rgb(232, 226, 225);
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box2{
+    height: 700px;
+    width: 400px;
+    border-color: antiquewhite ;
+    border: 8px solid;
+    /* border-spacing: 3px; */
+    margin-top: -700px;
+    margin-bottom: 1000px;
+    margin-left: 450px;
+    
+}
+.img2{
+    height: 400px;
+    width: 100%;
+}
+.c2{
+    font-size: xx-large;
+    color: darkgoldenrod;
+    padding: 10px;
+}
+.p2{
+    color: aliceblue;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box3{
+    height: 700px;
+    width: 400px;
+    border-color: antiquewhite ;
+    border: 8px solid;
+    margin-left: 900px;
+    margin-bottom: 1000px;
+    margin-top: -1699px;
+
+}
+.img3{
+    height: 400px;
+    width: 100%;
+}
+.c3{
+    font-size: xx-large;
+    color: darkgoldenrod;
+    padding: 10px;
+}
+.p3{
+    color: aliceblue;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.box4{
+    height: 700px;
+    width: 400px;
+    border-color: antiquewhite ;
+    border: 8px solid;
+    margin-left: 1350px;
+    margin-bottom: 1000px;
+    margin-top: -1700px;
+
+}
+.img4{
+    height: 400px;
+    width: 100%;
+}
+.c4{
+    font-size: xx-large;
+    color: darkgoldenrod;
+    padding: 10px;
+}
+.p4{
+    color: aliceblue;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bg3{
+    background-image: url(./image/cf.jpg);
+    background-repeat: no-repeat;
+    background-color: rgb(211, 141, 19);
+    height: 110vh;
+    width: 100%;
+    padding: 100px;
+    background-size: cover;
+    /* border-color: aliceblue; */
+}
+.g1{
+    color: rgb(114, 5, 27);
+    /* font-size: xx-large; */
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    size: 1000rev;
+    font-weight: bolder;
+    
+}
+
+.b1{
+    height: 400px;
+    width: 350px;
+    border-color: aliceblue;
+    border: 3px solid;
+    margin-left: 100px;
+    
+}
+.pic1{
+    height: 350px;
+    width: 100%;
+    border-color: aliceblue;
+    border: 3px solid;
+}
+.hh1{
+    color: chocolate;
+    font-size: xx-large;
+    font-style: italic;
+}
+.b2{
+    height: 400px;
+    width: 350px;
+    border-color: aliceblue;
+    border: 3px solid;
+    margin-left: 100px;
+    margin-top: -.60px;
+    margin-bottom: -100px;
+    /* margin-right: -1000px; */
+}
+.pic2{
+    height: 350px;
+    width: 100%;
+    border-color: aliceblue;
+    border: 3px solid;
+}
+.hh2{
+    color: chocolate;
+    font-size: xx-large;
+    font-style: italic;
+}
+.b3{
+    height: 400px;
+    width: 350px;
+    border-color: aliceblue;
+    border: 3px solid;
+   margin-top: -800px;
+   margin-left: 700px;
+   margin-right: 1500px;
+}
+.pic3{
+    height: 350px;
+    width: 100%;
+    border-color: aliceblue;
+    border: 3px solid;
+}
+.hh3{
+    color: chocolate;
+    font-size: xx-large;
+    font-style: italic;
+}
+.b4{
+    height: 400px;
+    width: 350px;
+    border-color: aliceblue;
+    border: 3px solid;
+    margin-right: 1000px;
+    margin-top: -400px;
+    margin-left: 1300px;
+    margin-bottom: -500px;
+    
+}
+.pic4{
+    height: 350px;
+    width: 100%;
+    border-color: aliceblue;
+    border: 3px solid;
+}
+.hh4{
+    color: chocolate;
+    font-size: xx-large;
+    font-style: italic;
+}
+.b5{
+    height: 400px;
+    width: 350px;
+    border-color: aliceblue;
+    border: 3px solid;
+    margin-left: 700px;
+    margin-bottom: 100px;
+    margin-top: 500px;
+}
+.pic5{
+    height: 350px;
+    width: 100%;
+    border-color: aliceblue;
+    border: 3px solid;
+}
+.hh5{
+    color: black;
+    font-size: xx-large;
+    font-style: italic;
+}
+.b6{
+    height: 400px;
+    width: 350px;
+    border-color: aliceblue;
+    border: 3px solid;
+   margin-top: -500px;
+   margin-left: 1300px;
+   margin-right: 1500px;
+   margin-bottom: 5000px;
+}
+.pic6{
+    height: 350px;
+    width: 100%;
+    border-color: aliceblue;
+    border: 3px solid;
+}
+.hh6{
+    color: chocolate;
+    font-size: xx-large;
+    font-style: italic;
+}
+.lp{
+    height: 600px;
+    color: rgb(19, 20, 21);
+    margin-left: 100px;
+    background-color: rgb(193, 95, 24);
+}
+.hh5{
+    height: 100px;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(6, 6, 6);
+    text-align: center;
+}
+.bt1{
+    color: black;
+    height: 50px;
+    width: 100px;
+    font-size: xx-large;
+    font-style: normal;
+    margin-left: 600px;
+    
+}
+.icon1{
+    height: 1000px;
+    width: 1000px;
+    margin-left: 1000px;
+    margin-right: 5000px;
+    margin-bottom: 1000px;
+    margin-bottom: 500px;
+    size: 100px;
+}
+
+
